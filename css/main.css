@@ -43,11 +43,11 @@ body {
   display: grid;
   justify-content: center;
   align-content: center;
-  padding: 0 2%;
+  padding: 0 20px;
 }
 
 .qr-component {
-  max-width: 375px;
+  max-width: 22rem;
   background-color: var(--White);
   padding: 20px;
   border-radius: 17px;
